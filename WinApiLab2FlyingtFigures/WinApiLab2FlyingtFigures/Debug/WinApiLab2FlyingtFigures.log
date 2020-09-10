@@ -1,0 +1,20 @@
+﻿  WinApiLab2FlyingtFigures.cpp
+C:\Users\Тимур\source\repos\WinApiLab2FlyingtFigures\WinApiLab2FlyingtFigures\Figure.h(71,1): warning C4804: >: небезопасное использование типа "bool" в операции
+C:\Users\Тимур\source\repos\WinApiLab2FlyingtFigures\WinApiLab2FlyingtFigures\Figure.h(136,1): warning C4804: >: небезопасное использование типа "bool" в операции
+C:\Users\Тимур\source\repos\WinApiLab2FlyingtFigures\WinApiLab2FlyingtFigures\Figure.h(158,30): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\Тимур\source\repos\WinApiLab2FlyingtFigures\WinApiLab2FlyingtFigures\Figure.h(160,30): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\Тимур\source\repos\WinApiLab2FlyingtFigures\WinApiLab2FlyingtFigures\Figure.h(171,30): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\Тимур\source\repos\WinApiLab2FlyingtFigures\WinApiLab2FlyingtFigures\Figure.h(173,30): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\Тимур\source\repos\WinApiLab2FlyingtFigures\WinApiLab2FlyingtFigures\Figure.h(184,30): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\Тимур\source\repos\WinApiLab2FlyingtFigures\WinApiLab2FlyingtFigures\Figure.h(186,30): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\Тимур\source\repos\WinApiLab2FlyingtFigures\WinApiLab2FlyingtFigures\Figure.h(196,1): warning C4804: >: небезопасное использование типа "bool" в операции
+C:\Users\Тимур\source\repos\WinApiLab2FlyingtFigures\WinApiLab2FlyingtFigures\Figure.h(262,1): warning C4804: >: небезопасное использование типа "bool" в операции
+C:\Users\Тимур\source\repos\WinApiLab2FlyingtFigures\WinApiLab2FlyingtFigures\Figure.h(285,36): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\Тимур\source\repos\WinApiLab2FlyingtFigures\WinApiLab2FlyingtFigures\Figure.h(286,37): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\Тимур\source\repos\WinApiLab2FlyingtFigures\WinApiLab2FlyingtFigures\Figure.h(298,35): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\Тимур\source\repos\WinApiLab2FlyingtFigures\WinApiLab2FlyingtFigures\Figure.h(299,36): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\Тимур\source\repos\WinApiLab2FlyingtFigures\WinApiLab2FlyingtFigures\Figure.h(310,35): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\Тимур\source\repos\WinApiLab2FlyingtFigures\WinApiLab2FlyingtFigures\Figure.h(311,36): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\Тимур\source\repos\WinApiLab2FlyingtFigures\WinApiLab2FlyingtFigures\Figure.h(321,1): warning C4804: >: небезопасное использование типа "bool" в операции
+C:\Users\Тимур\source\repos\WinApiLab2FlyingtFigures\WinApiLab2FlyingtFigures\Figure.h(342,1): warning C4804: >: небезопасное использование типа "bool" в операции
+  WinApiLab2FlyingtFigures.vcxproj -> C:\Users\Тимур\source\repos\WinApiLab2FlyingtFigures\Debug\WinApiLab2FlyingtFigures.exe
